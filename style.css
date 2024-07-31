@@ -5,20 +5,20 @@ main {
     justify-content: center;
 }
 
-.card > h1 {
-    display: flex;
-    justify-content: center;
-    position: relative;
-    top: 50px;
+.card h1 {
+    text-align: center;
+    margin-top: 50px;
+    /* position: relative; */
+    /* top: 50px; */
 }
 
-.todo {
-    position: relative;
-    top: 80px;
-}
+    /* .todo {
+        position: relative;
+        top: 80px;
+    }
 
-.table{
-    position: absolute;
-    top: 250px;
-    
-}
+    .table{
+        position: absolute;
+        top: 250px;
+        
+    } */
